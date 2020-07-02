@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c17b2586-c950-4e0f-8e19-286f26b91df4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app1/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app2/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1e7YOtGk5mxY1NGoz8G8NEcSf1y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c17b2586-c950-4e0f-8e19-286f26b91df4" name="Default Changelist" comment="" />
+      <created>1593674069525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593674069525</updated>
+      <workItem from="1593674071058" duration="1373000" />
+      <workItem from="1593675464524" duration="370000" />
+    </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1593675208330</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593675208330</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/app1" />
+      <path value="$PROJECT_DIR$/app2" />
+    </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1593675320770">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593675320770" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1593675225399">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1593675225399" />
+    <state x="540" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593675375953">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="540" y="336" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1593675375953" />
+  </component>
+</project>
