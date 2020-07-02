@@ -10,30 +10,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c17b2586-c950-4e0f-8e19-286f26b91df4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app1/yarn.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/babel.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app2/yarn.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="c17b2586-c950-4e0f-8e19-286f26b91df4" name="Default Changelist" comment="rebase">
+      <change afterPath="$PROJECT_DIR$/test2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/common/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/common/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/customer/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/customer/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/performer/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/src/performer/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/webpack.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2/yarn.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +35,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1e7YOtGk5mxY1NGoz8G8NEcSf1y" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -58,18 +57,24 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test2/src/performer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.webpack" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test2/src/performer" />
+      <recent name="$PROJECT_DIR$/test2" />
       <recent name="$PROJECT_DIR$/common" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test2/src/common" />
+      <recent name="$PROJECT_DIR$/test2/src" />
+      <recent name="$PROJECT_DIR$/test2/src/customer" />
+      <recent name="$PROJECT_DIR$/test1" />
       <recent name="$PROJECT_DIR$/common" />
     </key>
   </component>
@@ -84,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593674069525</updated>
       <workItem from="1593674071058" duration="1373000" />
-      <workItem from="1593675464524" duration="370000" />
+      <workItem from="1593675464524" duration="1103000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1593675208330</created>
@@ -93,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1593675208330</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1593676338332</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593676338332</updated>
+    </task>
+    <task id="LOCAL-00003" summary="rebase">
+      <created>1593676450145</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593676450145</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,17 +137,18 @@
       <path value="$PROJECT_DIR$/app2" />
     </ignored-roots>
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="rebase" />
+    <option name="LAST_COMMIT_MESSAGE" value="rebase" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1593675320770">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1593676799335">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593675320770" />
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1593675225399">
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1593676799335" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1593676454515">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1593675225399" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1593676454515" />
     <state x="540" y="336" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1593675375953">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
